@@ -1,0 +1,7 @@
+.header {
+    color: blue;
+    margin: 50px 0;
+}
+.row>* {
+    margin: 40px auto;
+}
